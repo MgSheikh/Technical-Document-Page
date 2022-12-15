@@ -1,0 +1,24 @@
+ main {
+				   margin-left: auto;
+				   margin-right: auto;
+				   padding:0;
+				  
+				   width:650;
+				   
+				   
+				   }
+				   
+				   h3 {
+				  text-align: center;
+				  font-size: 30px;
+				   }
+				   
+	
+body { 
+    display: flex; 
+    justify-content: center; 
+    margin-top: 19%; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    background:linear-gradient(90deg , rgb(0, 123, 255)  , rgb(255, 255, 255)); 
+} 
+			
